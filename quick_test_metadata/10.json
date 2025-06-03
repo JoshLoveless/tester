@@ -1,0 +1,29 @@
+{
+  "name": "My ApeChain NFT #10",
+  "description": "Test NFT #10 from My ApeChain Collection - the first working NFT collection on ApeChain with on-chain royalties!",
+  "image": "https://picsum.photos/400/400?random=10",
+  "external_url": "https://apechain.com",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "ApeChain"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 10
+    },
+    {
+      "trait_type": "Collection",
+      "value": "My ApeChain Collection"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Test Genesis"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Random #10"
+    }
+  ]
+}
